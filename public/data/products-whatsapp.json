@@ -1,0 +1,1063 @@
+[
+  {
+    "id": "whatsapp-F1194M",
+    "model": "F1194M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "F1194M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN/FOSSSIL",
+      "IRON GATE/ULIMATE GRAY",
+      "GRAPE LEAF/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-32.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-32.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-33_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-34.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-34_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-12-35.jpg"
+    ],
+    "sourceModel": "F1194M",
+    "sourceArticle": "1194",
+    "imageSource": "cloudinary",
+    "displayName": "F1194M LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 59,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-E2333-E01",
+    "model": "E2333-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E2333-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL/WHITE PEPPER",
+      "ROSE SMOKE/WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-13-49_2.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-13-49_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-13-48.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-13-49.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-13-50.jpg"
+    ],
+    "sourceModel": "E2333-E01",
+    "sourceArticle": "2333",
+    "imageSource": "cloudinary",
+    "displayName": "E2333-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E2333-E01.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E6230-3M",
+    "model": "E6230-3M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6230-3M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSIL",
+      "CLOUD CREAM"
+    ],
+    "notes": [
+      "only BLACK has stock"
+    ],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-37.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-37.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-36.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-36_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-37_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-14-38.jpg"
+    ],
+    "sourceModel": "E6230-3M",
+    "sourceArticle": "6230 men’s",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E6258-E01",
+    "model": "E6258-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6258-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE/WISTFUL MAUVE",
+      "WHITE PEPPER",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-18_2.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-18_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-16.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-17.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-17_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-17_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-18.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-18_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-19.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-19_2.jpg"
+    ],
+    "sourceModel": "E6258-E01",
+    "sourceArticle": "6258",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E6262",
+    "model": "E6262",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6262 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "IRON GATE",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-57_3.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-57_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-57.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-57_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-58.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-58_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-15-59.jpg"
+    ],
+    "sourceModel": "E6262",
+    "sourceArticle": "6262",
+    "imageSource": "cloudinary",
+    "displayName": "E6262 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-E7229-E01",
+    "model": "E7229-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7229-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WHITE PEPPER/FOSSSIL",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-54.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-54.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-54_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-55.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-55_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-56.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-56_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-57.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-57_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-58.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-16-59.jpg"
+    ],
+    "sourceModel": "E7229-E01",
+    "sourceArticle": "7229",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E6201-E01L",
+    "model": "E6201-E01L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6201-E01L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Clogs",
+    "colors": [
+      "WHITE",
+      "BLACK",
+      "ROSES MOKE",
+      "WHITE PEPPER"
+    ],
+    "notes": [
+      "ROSE SMOKE no stock now"
+    ],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-43_2.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-43_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-42.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-43.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-44.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-44_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-17-44_3.jpg"
+    ],
+    "sourceModel": "E6201-E01L",
+    "sourceArticle": "6201",
+    "imageSource": "cloudinary",
+    "displayName": "E6201-E01L LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 45,
+    "bestSeller": true
+  },
+  {
+    "id": "whatsapp-E6213-E32",
+    "model": "E6213-E32",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6213-E32 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE/BLACK",
+      "IRON GATE/ULTIMATE GRAY",
+      "GRAPE LEAF/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-05.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-05.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-05_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-05_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-06.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-06_2.jpg"
+    ],
+    "sourceModel": "E6213-E32",
+    "sourceArticle": "6213",
+    "imageSource": "cloudinary",
+    "displayName": "E6213-E32 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E6213-E32.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E6230-3L",
+    "model": "E6230-3L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6230-3L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-34.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-34.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-34_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-34_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-35.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-18-35_2.jpg"
+    ],
+    "sourceModel": "E6230-3L",
+    "sourceArticle": "6230 ladies",
+    "imageSource": "cloudinary",
+    "displayName": "E6230-3L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-E6234-3M",
+    "model": "E6234-3M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6234-3M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN",
+      "INDIAINK"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-19-26.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-19-26.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-19-27.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-19-27_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-19-28.jpg"
+    ],
+    "sourceModel": "E6234-3M",
+    "sourceArticle": "6234",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E6235-E01",
+    "model": "E6235-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6235-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "FOSSSIL/CHOCO BROWN",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-31.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-31.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-31_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-32.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-32_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-32_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-33_2.jpg"
+    ],
+    "sourceModel": "E6235-E01",
+    "sourceArticle": "6235",
+    "imageSource": "cloudinary",
+    "hiddenGalleryImages": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-20-32_2.jpg"
+    ]
+  },
+  {
+    "id": "whatsapp-E6238-E01",
+    "model": "E6238-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6238-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "WHITE/BLACK",
+      "BLACK",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-21-19.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-21-19.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-21-20.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-21-20_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-21-20_3.jpg"
+    ],
+    "sourceModel": "E6238-E01",
+    "sourceArticle": "6238",
+    "imageSource": "cloudinary",
+    "displayName": "E6238-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true
+  },
+  {
+    "id": "whatsapp-E6240M-E01",
+    "model": "E6240M-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6240M-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN /FOSSSIL",
+      "GREEN LEAF/FOSSSIL",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-09.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-09.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-09_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-09_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-10.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-10_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-12.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-12_2.jpg"
+    ],
+    "sourceModel": "E6240M-E01",
+    "sourceArticle": "6240",
+    "imageSource": "cloudinary",
+    "displayName": "E6240M-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E6240M-E01.mp4"
+    ],
+    "hiddenGalleryImages": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-10.jpg"
+    ]
+  },
+  {
+    "id": "whatsapp-E6257-E01",
+    "model": "E6257-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6257-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISPY CLOUDS/BLACK",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-48.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-48.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-49.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-50.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-51.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-51_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-22-52.jpg"
+    ],
+    "sourceModel": "E6257-E01",
+    "sourceArticle": "6257",
+    "imageSource": "cloudinary",
+    "displayName": "E6257-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-E6259L",
+    "model": "E6259L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6259L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-23.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-23.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-23_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-24.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-24_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-25.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-25_2.jpg"
+    ],
+    "sourceModel": "E6259L",
+    "sourceArticle": "6259",
+    "imageSource": "cloudinary",
+    "displayName": "E6259L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-E6261M",
+    "model": "E6261M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6261M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN",
+      "INDIA INK",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-57.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-57.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-58.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-58_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-58_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-59.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-23-59_2.jpg"
+    ],
+    "sourceModel": "E6261M",
+    "sourceArticle": "6261",
+    "imageSource": "cloudinary",
+    "displayName": "E6261M LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E6261M.mp4",
+      "assets/videos/E6261M-2.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E7185M-E01",
+    "model": "E7185M-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7185M-E01 LUOFU Men's",
+    "material": "EVA",
+    "gender": "Men",
+    "type": "Slipper",
+    "colors": [
+      "ULTIMATE GRAY/IRON GATE",
+      "BLACK",
+      "WHITE PEPPER /GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-31.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-31.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-31_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-31_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-32.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-32_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-33_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-33_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-34.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-34_2.jpg"
+    ],
+    "sourceModel": "E7185M-E01",
+    "sourceArticle": "7185",
+    "imageSource": "cloudinary",
+    "displayName": "E7185M-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true,
+    "hiddenGalleryImages": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-24-32_2.jpg"
+    ]
+  },
+  {
+    "id": "whatsapp-E7208-E01",
+    "model": "E7208-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7208-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "PEACHY KEEN/CLOUD CREAM",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-30_2.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-30_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-29.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-29_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-29_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-30.jpg"
+    ],
+    "sourceModel": "E7208-E01",
+    "sourceArticle": "7208",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E7208-5M",
+    "model": "E7208-5M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7208-5M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-58.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-58.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-58_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-59.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-25-59_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-00.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-00_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-00_3.jpg"
+    ],
+    "sourceModel": "E7208-5M",
+    "sourceArticle": "7208 -5M",
+    "imageSource": "cloudinary",
+    "sellingPrice": 65
+  },
+  {
+    "id": "whatsapp-E7213-E01",
+    "model": "E7213-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7213-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/GRAPE LEAF",
+      "ROSE SMOKE/WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-35.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-35.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-35_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-36.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-36_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-37.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-26-37_2.jpg"
+    ],
+    "sourceModel": "E7213-E01",
+    "sourceArticle": "7213",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E7213-3L",
+    "model": "E7213-3L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7213-3L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISTFUL MAUVE"
+    ],
+    "notes": [
+      "only 2 colors has stock"
+    ],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-12.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-12.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-13.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-13_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-14.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-14_2.jpg"
+    ],
+    "sourceModel": "E7213-3L",
+    "sourceArticle": "7213-3L",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-E7219-E01",
+    "model": "E7219-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7219-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-52.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-52.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-52_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-53.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-53_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-54.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-54_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-55.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-55_2.jpg"
+    ],
+    "sourceModel": "E7219-E01",
+    "sourceArticle": "7219",
+    "imageSource": "cloudinary",
+    "hiddenGalleryImages": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-27-53_2.jpg"
+    ]
+  },
+  {
+    "id": "whatsapp-E7223-E01",
+    "model": "E7223-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7223-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE/WINDSOR WINE",
+      "FOSSSIL/WHITE PEPPER",
+      "CLOUD CREAM/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-30.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-30.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-31.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-31_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-31_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-32.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-32_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-33_2.jpg"
+    ],
+    "sourceModel": "E7223-E01",
+    "sourceArticle": "7223",
+    "imageSource": "cloudinary",
+    "displayName": "E7223-E01 LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7223-E01.mp4"
+    ],
+    "hiddenGalleryImages": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-28-32.jpg"
+    ]
+  },
+  {
+    "id": "whatsapp-E7224B-E01",
+    "model": "E7224B-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7224B-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/FOSSSIL",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-00.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-00.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-00_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-00_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-01.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-01_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-02.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-02_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-03.jpg"
+    ],
+    "sourceModel": "E7224B-E01",
+    "sourceArticle": "7224b",
+    "imageSource": "cloudinary",
+    "displayName": "E7224B-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7224B-E01.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E7228L",
+    "model": "E7228L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7228L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Clogs",
+    "colors": [
+      "CLOUD CREAM",
+      "WHITE PEPPER",
+      "BLACK",
+      "ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-36.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-36.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-36_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-37.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-37_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-38.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-29-38_2.jpg"
+    ],
+    "sourceModel": "E7228L",
+    "sourceArticle": "7228",
+    "imageSource": "cloudinary",
+    "displayName": "E7228L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E7228L.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E7229BL",
+    "model": "E7229BL",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7229BL LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISTFUL MAUVE",
+      "TIFERS EYE",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-11.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-11.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-11_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-11_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-12.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-12_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-12_3.jpg"
+    ],
+    "sourceModel": "E7229BL",
+    "sourceArticle": "7229bl",
+    "imageSource": "cloudinary",
+    "displayName": "E7229BL LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7229BL.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E7231L",
+    "model": "E7231L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7231L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WISTFUL MAUVE",
+      "CLOUDCREAM"
+    ],
+    "notes": [
+      "WINDSOR WINE not made so far"
+    ],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-50.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-50.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-51.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-51_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-52.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-52_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-52_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-53.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-30-53_2.jpg"
+    ],
+    "sourceModel": "E7231L",
+    "sourceArticle": "7231",
+    "imageSource": "cloudinary",
+    "displayName": "E7231L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E7231L.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E7234L",
+    "model": "E7234L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7234L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CLOUD CREAM",
+      "WHITE PEPPER",
+      "WINDSOR WINE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-32.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-32.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-32_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-32_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-33_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-34.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-31-34_2.jpg"
+    ],
+    "sourceModel": "E7234L",
+    "sourceArticle": "7234 ladies",
+    "imageSource": "cloudinary",
+    "displayName": "E7234L LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false
+  },
+  {
+    "id": "whatsapp-7235",
+    "model": "7235",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7234M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "INDIA INK",
+      "IRON GATE"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-00.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-00.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-00_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-01.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-01_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-01_3.jpg"
+    ],
+    "sourceModel": "E7234M",
+    "sourceArticle": "7235 men’s",
+    "imageSource": "cloudinary",
+    "videos": [
+      "assets/videos/E7234M.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-E6263M",
+    "model": "E6263M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6263M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "INDIA INK",
+      "IRON GATE",
+      "CHOCO BROWN",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-33.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-33.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-33_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-33_3.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-34.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-34_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-32-34_3.jpg"
+    ],
+    "sourceModel": "E6263M",
+    "sourceArticle": "6263",
+    "imageSource": "cloudinary"
+  },
+  {
+    "id": "whatsapp-F1193-E01",
+    "model": "F1193-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "F1193-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-30.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-30.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-30_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-31.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-31_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-33-31_3.jpg"
+    ],
+    "sourceModel": "F1193-E01",
+    "sourceArticle": "1193",
+    "imageSource": "cloudinary",
+    "displayName": "F1193-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/F1193-E01.mp4"
+    ]
+  },
+  {
+    "id": "whatsapp-F2334L",
+    "model": "F2334L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "F2334L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "WHITE PEPPER",
+      "BLACK",
+      "ROSE SMOKE",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-03.jpg",
+    "images": [
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-03.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-03_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-04.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-04_2.jpg",
+      "https://res.cloudinary.com/pamhlmbp/image/upload/PHOTO-2026-09-09-16-34-04_3.jpg"
+    ],
+    "sourceModel": "F2334L",
+    "sourceArticle": "2334",
+    "imageSource": "cloudinary",
+    "displayName": "F2334L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 49,
+    "bestSeller": false
+  }
+]

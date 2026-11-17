@@ -1,0 +1,945 @@
+[
+  {
+    "id": "E7185M-E01",
+    "model": "E7185M-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7185M-E01 LUOFU Men's",
+    "material": "EVA",
+    "gender": "Men",
+    "type": "Slipper",
+    "colors": [
+      "ULTIMATE GRAY/IRON GATE",
+      "BLACK",
+      "WHITE PEPPER /GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "assets/products/E7185M-E01.png",
+    "images": [
+      "assets/products/E7185M-E01.png"
+    ],
+    "displayName": "E7185M-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true
+  },
+  {
+    "id": "E6240M-E01",
+    "model": "E6240M-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6240M-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN /FOSSSIL",
+      "GREEN LEAF/FOSSSIL",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "assets/products/E6240M-E01.png",
+    "images": [
+      "assets/products/E6240M-E01.png"
+    ],
+    "displayName": "E6240M-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E6240M-E01.mp4"
+    ]
+  },
+  {
+    "id": "E6213-E32",
+    "model": "E6213-E32",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6213-E32 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE/BLACK",
+      "IRON GATE/ULTIMATE GRAY",
+      "GRAPE LEAF/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E6213-E32.png",
+    "images": [
+      "assets/products/E6213-E32.png"
+    ],
+    "displayName": "E6213-E32 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E6213-E32.mp4"
+    ]
+  },
+  {
+    "id": "E7223-E01",
+    "model": "E7223-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7223-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE/WINDSOR WINE",
+      "FOSSSIL/WHITE PEPPER",
+      "CLOUD CREAM/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E7223-E01.png",
+    "images": [
+      "assets/products/E7223-E01.png"
+    ],
+    "displayName": "E7223-E01 LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7223-E01.mp4"
+    ]
+  },
+  {
+    "id": "E7219-E01",
+    "model": "E7219-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7219-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E7219-E01.png",
+    "images": [
+      "assets/products/E7219-E01.png"
+    ]
+  },
+  {
+    "id": "E6238-E01",
+    "model": "E6238-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6238-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "WHITE/BLACK",
+      "BLACK",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "assets/products/E6238-E01.png",
+    "images": [
+      "assets/products/E6238-E01.png"
+    ],
+    "displayName": "E6238-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 49,
+    "bestSeller": true
+  },
+  {
+    "id": "E6235-E01",
+    "model": "E6235-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6235-E01 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "FOSSSIL/CHOCO BROWN",
+      "IRON GATE/ULTIMATE GRAY"
+    ],
+    "notes": [],
+    "image": "assets/products/E6235-E01.png",
+    "images": [
+      "assets/products/E6235-E01.png"
+    ]
+  },
+  {
+    "id": "E7208-B85",
+    "model": "E7208-B85",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7208-B85 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE",
+      "ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7208-B85.png",
+    "images": [
+      "assets/products/E7208-B85.png"
+    ]
+  },
+  {
+    "id": "E7158-E293",
+    "model": "E7158-E293",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7158-E293 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE/WISTFUL MAUVE",
+      "WHITE PEPPER/FOSSSIL"
+    ],
+    "notes": [],
+    "image": "assets/products/E7158-E293.png",
+    "images": [
+      "assets/products/E7158-E293.png"
+    ]
+  },
+  {
+    "id": "E6259L",
+    "model": "E6259L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6259L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "assets/products/E6259L.png",
+    "images": [
+      "assets/products/E6259L.png"
+    ],
+    "displayName": "E6259L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false
+  },
+  {
+    "id": "E7231L",
+    "model": "E7231L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7231L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WISTFUL MAUVE",
+      "CLOUDCREAM"
+    ],
+    "notes": [
+      "WINDSOR WINE not made so far"
+    ],
+    "image": "assets/products/E7231L.png",
+    "images": [
+      "assets/products/E7231L.png"
+    ],
+    "displayName": "E7231L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E7231L.mp4"
+    ]
+  },
+  {
+    "id": "E6258-E01",
+    "model": "E6258-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6258-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE/WISTFUL MAUVE",
+      "WHITE PEPPER",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "assets/products/E6258-E01.png",
+    "images": [
+      "assets/products/E6258-E01.png"
+    ]
+  },
+  {
+    "id": "E7229-E01",
+    "model": "E7229-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7229-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "WHITE PEPPER/FOSSSIL",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7229-E01.png",
+    "images": [
+      "assets/products/E7229-E01.png"
+    ]
+  },
+  {
+    "id": "E7199C-E99",
+    "model": "E7199C-E99",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7199C-E99 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7199C-E99.png",
+    "images": [
+      "assets/products/E7199C-E99.png"
+    ]
+  },
+  {
+    "id": "E7140D-B93",
+    "model": "E7140D-B93",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7140D-B93 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK/ULTIMATE GRAY",
+      "ROSE SMOKE",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E7140D-B93.png",
+    "images": [
+      "assets/products/E7140D-B93.png"
+    ]
+  },
+  {
+    "id": "E7208-E05",
+    "model": "E7208-E05",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7208-E05 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "IRON GATE/ULIMATE GRAY",
+      "INDIA INK",
+      "BLACK"
+    ],
+    "notes": [],
+    "image": "assets/products/E7208-E05.png",
+    "images": [
+      "assets/products/E7208-E05.png"
+    ],
+    "displayName": "E7208-E05 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 65,
+    "bestSeller": false
+  },
+  {
+    "id": "E6257-E01",
+    "model": "E6257-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6257-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISPY CLOUDS/BLACK",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E6257-E01.png",
+    "images": [
+      "assets/products/E6257-E01.png"
+    ],
+    "displayName": "E6257-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": false
+  },
+  {
+    "id": "E7224B-E01",
+    "model": "E7224B-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7224B-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Sandals",
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/FOSSSIL",
+      "WISTFUL MAUVE/ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7224B-E01.png",
+    "images": [
+      "assets/products/E7224B-E01.png"
+    ],
+    "displayName": "E7224B-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7224B-E01.mp4"
+    ]
+  },
+  {
+    "id": "F1193-E01",
+    "model": "F1193-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "F1193-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "assets/products/F1193-E01.png",
+    "images": [
+      "assets/products/F1193-E01.png"
+    ],
+    "displayName": "F1193-E01 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/F1193-E01.mp4"
+    ]
+  },
+  {
+    "id": "E7185-E85",
+    "model": "E7185-E85",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7185-E85 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "WISTFUL MAUVE/ROSE SMOKE",
+      "ROSE SMOKE/SKIPPER BLUE",
+      "BLACK"
+    ],
+    "notes": [],
+    "image": "assets/products/E7185-E85.png",
+    "images": [
+      "assets/products/E7185-E85.png"
+    ]
+  },
+  {
+    "id": "E2333-E01",
+    "model": "E2333-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E2333-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL/WHITE PEPPER",
+      "ROSE SMOKE/WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "assets/products/E2333-E01.png",
+    "images": [
+      "assets/products/E2333-E01.png"
+    ],
+    "displayName": "E2333-E01 LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E2333-E01.mp4"
+    ]
+  },
+  {
+    "id": "E7199A-E56",
+    "model": "E7199A-E56",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7199A-E56 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7199A-E56.png",
+    "images": [
+      "assets/products/E7199A-E56.png"
+    ]
+  },
+  {
+    "id": "E7213-E01",
+    "model": "E7213-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7213-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER/GRAPE LEAF",
+      "ROSE SMOKE/WISTFUL MAUVE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7213-E01.png",
+    "images": [
+      "assets/products/E7213-E01.png"
+    ]
+  },
+  {
+    "id": "E7208-E01",
+    "model": "E7208-E01",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7208-E01 LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "PEACHY KEEN/CLOUD CREAM",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E7208-E01.png",
+    "images": [
+      "assets/products/E7208-E01.png"
+    ]
+  },
+  {
+    "id": "E7208-5M",
+    "model": "E7208-5M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7208-5M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WHITE PEPPER",
+      "GRAPE LEAF",
+      "INDIA INK"
+    ],
+    "notes": [],
+    "image": "assets/products/E7208-5M.png",
+    "images": [
+      "assets/products/E7208-5M.png"
+    ]
+  },
+  {
+    "id": "E7234L",
+    "model": "E7234L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7234L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CLOUD CREAM",
+      "WHITE PEPPER",
+      "WINDSOR WINE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7234L.png",
+    "images": [
+      "assets/products/E7234L.png"
+    ],
+    "displayName": "E7234L LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 55,
+    "bestSeller": false
+  },
+  {
+    "id": "E6234-3M",
+    "model": "E6234-3M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6234-3M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN",
+      "INDIAINK"
+    ],
+    "notes": [],
+    "image": "assets/products/E6234-3M.png",
+    "images": [
+      "assets/products/E6234-3M.png"
+    ]
+  },
+  {
+    "id": "E7234M",
+    "model": "E7234M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E7234M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "INDIA INK",
+      "IRON GATE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7234M.png",
+    "images": [
+      "assets/products/E7234M.png"
+    ],
+    "videos": [
+      "assets/videos/E7234M.mp4"
+    ]
+  },
+  {
+    "id": "E7213-3L",
+    "model": "E7213-3L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7213-3L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISTFUL MAUVE"
+    ],
+    "notes": [
+      "only 2 colors has stock"
+    ],
+    "image": "assets/products/E7213-3L.png",
+    "images": [
+      "assets/products/E7213-3L.png"
+    ]
+  },
+  {
+    "id": "E7228L",
+    "model": "E7228L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7228L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Clogs",
+    "colors": [
+      "CLOUD CREAM",
+      "WHITE PEPPER",
+      "BLACK",
+      "ROSE SMOKE"
+    ],
+    "notes": [],
+    "image": "assets/products/E7228L.png",
+    "images": [
+      "assets/products/E7228L.png"
+    ],
+    "displayName": "E7228L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E7228L.mp4"
+    ]
+  },
+  {
+    "id": "E6230-3L",
+    "model": "E6230-3L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6230-3L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "assets/products/E6230-3L.png",
+    "images": [
+      "assets/products/E6230-3L.png"
+    ],
+    "displayName": "E6230-3L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 59,
+    "bestSeller": false
+  },
+  {
+    "id": "E6230-3M",
+    "model": "E6230-3M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6230-3M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSIL",
+      "CLOUD CREAM"
+    ],
+    "notes": [
+      "only BLACK has stock"
+    ],
+    "image": "assets/products/E6230-3M.png",
+    "images": [
+      "assets/products/E6230-3M.png"
+    ]
+  },
+  {
+    "id": "F1154-9M",
+    "model": "F1154-9M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "F1154-9M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "IRON GATE"
+    ],
+    "notes": [
+      "only IRON GATE has some stock"
+    ],
+    "image": "assets/products/F1154-9M.png",
+    "images": [
+      "assets/products/F1154-9M.png"
+    ]
+  },
+  {
+    "id": "E6263M",
+    "model": "E6263M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6263M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "INDIA INK",
+      "IRON GATE",
+      "CHOCO BROWN",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "assets/products/E6263M.png",
+    "images": [
+      "assets/products/E6263M.png"
+    ]
+  },
+  {
+    "id": "E7229BL",
+    "model": "E7229BL",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E7229BL LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "WISTFUL MAUVE",
+      "TIFERS EYE",
+      "WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/E7229BL.png",
+    "images": [
+      "assets/products/E7229BL.png"
+    ],
+    "displayName": "E7229BL LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 69,
+    "bestSeller": true,
+    "videos": [
+      "assets/videos/E7229BL.mp4"
+    ]
+  },
+  {
+    "id": "E6261M",
+    "model": "E6261M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6261M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN",
+      "INDIA INK",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "assets/products/E6261M.png",
+    "images": [
+      "assets/products/E6261M.png"
+    ],
+    "displayName": "E6261M LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false,
+    "videos": [
+      "assets/videos/E6261M.mp4",
+      "assets/videos/E6261M-2.mp4"
+    ]
+  },
+  {
+    "id": "F2334L",
+    "model": "F2334L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "F2334L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": null,
+    "colors": [
+      "WHITE PEPPER",
+      "BLACK",
+      "ROSE SMOKE",
+      "CLOUD CREAM"
+    ],
+    "notes": [],
+    "image": "assets/products/F2334L.png",
+    "images": [
+      "assets/products/F2334L.png"
+    ],
+    "displayName": "F2334L LUOFU Women's",
+    "category": "Women's",
+    "sellingPrice": 49,
+    "bestSeller": false
+  },
+  {
+    "id": "F1194M",
+    "model": "F1194M",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "F1194M LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "CHOCO BROWN/FOSSSIL",
+      "IRON GATE/ULIMATE GRAY",
+      "GRAPE LEAF/WHITE PEPPER"
+    ],
+    "notes": [],
+    "image": "assets/products/F1194M.png",
+    "images": [
+      "assets/products/F1194M.png"
+    ],
+    "displayName": "F1194M LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 59,
+    "bestSeller": false
+  },
+  {
+    "id": "E6201-E01L",
+    "model": "E6201-E01L",
+    "brand": "LUOFU",
+    "name": "LUOFU Women's",
+    "description": "E6201-E01L LUOFU Women's",
+    "material": null,
+    "gender": "Women",
+    "type": "Clogs",
+    "colors": [
+      "WHITE",
+      "BLACK",
+      "ROSES MOKE",
+      "WHITE PEPPER"
+    ],
+    "notes": [
+      "ROSE SMOKE no stock now"
+    ],
+    "image": "assets/products/E6201-E01L.png",
+    "images": [
+      "assets/products/E6201-E01L.png",
+      "assets/products/E6201-E01L-2.png"
+    ],
+    "displayName": "E6201-E01L LUOFU Women's (B-01)",
+    "category": "Women's",
+    "sellingPrice": 45,
+    "bestSeller": true
+  },
+  {
+    "id": "E6262",
+    "model": "E6262",
+    "brand": "LUOFU",
+    "name": "LUOFU Men's",
+    "description": "E6262 LUOFU Men's",
+    "material": null,
+    "gender": "Men",
+    "type": null,
+    "colors": [
+      "BLACK",
+      "FOSSSIL",
+      "IRON GATE",
+      "GRAPE LEAF"
+    ],
+    "notes": [],
+    "image": "assets/products/E6262.png",
+    "images": [
+      "assets/products/E6262.png"
+    ],
+    "displayName": "E6262 LUOFU Men's",
+    "category": "Men's",
+    "sellingPrice": 69,
+    "bestSeller": false
+  }
+]

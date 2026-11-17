@@ -1,0 +1,193 @@
+{
+  "source": "ONLINE PRODUCTS - Sheet2 (1).pdf",
+  "currency": "QAR",
+  "note": "Selling Price and display names transcribed from the supplied PDF. All displayed prices use QAR. Category is the supplied gender range, not a footwear type. Video matches checked against supplied catalogue photos. User confirmed on 2026-09-24 that the PDF E7208-E05 price of QAR 65 belongs to E7208-5M. Only sellingPrice is a retail display price.",
+  "products": {
+    "E6262": {
+      "displayName": "E6262 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 69,
+      "bestSeller": false
+    },
+    "F1193-E01": {
+      "displayName": "F1193-E01 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 69,
+      "bestSeller": false,
+      "videos": [
+        "assets/videos/F1193-E01.mp4"
+      ]
+    },
+    "E6261M": {
+      "displayName": "E6261M LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 69,
+      "bestSeller": false,
+      "videos": [
+        "assets/videos/E6261M.mp4",
+        "assets/videos/E6261M-2.mp4"
+      ]
+    },
+    "F1194M": {
+      "displayName": "F1194M LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 59,
+      "bestSeller": false
+    },
+    "E6213-E32": {
+      "displayName": "E6213-E32 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 49,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E6213-E32.mp4"
+      ]
+    },
+    "E7185M-E01": {
+      "displayName": "E7185M-E01 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 49,
+      "bestSeller": true
+    },
+    "E6238-E01": {
+      "displayName": "E6238-E01 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 49,
+      "bestSeller": true
+    },
+    "E6240M-E01": {
+      "displayName": "E6240M-E01 LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 59,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E6240M-E01.mp4"
+      ]
+    },
+    "E6257-E01": {
+      "displayName": "E6257-E01 LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 69,
+      "bestSeller": false
+    },
+    "E7224B-E01": {
+      "displayName": "E7224B-E01 LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 69,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E7224B-E01.mp4"
+      ]
+    },
+    "E7228L": {
+      "displayName": "E7228L LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 59,
+      "bestSeller": false,
+      "videos": [
+        "assets/videos/E7228L.mp4"
+      ]
+    },
+    "E7229BL": {
+      "displayName": "E7229BL LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 69,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E7229BL.mp4"
+      ]
+    },
+    "E6230-3L": {
+      "displayName": "E6230-3L LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 59,
+      "bestSeller": false
+    },
+    "F2334L": {
+      "displayName": "F2334L LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 49,
+      "bestSeller": false
+    },
+    "E6259L": {
+      "displayName": "E6259L LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 55,
+      "bestSeller": false
+    },
+    "E2333-E01": {
+      "displayName": "E2333-E01 LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 59,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E2333-E01.mp4"
+      ]
+    },
+    "E7231L": {
+      "displayName": "E7231L LUOFU Women's",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 55,
+      "bestSeller": false,
+      "videos": [
+        "assets/videos/E7231L.mp4"
+      ]
+    },
+    "E7234L": {
+      "displayName": "E7234L LUOFU Women's (B-01)",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 55,
+      "bestSeller": false
+    },
+    "E6201-E01L": {
+      "displayName": "E6201-E01L LUOFU Women's (B-01)",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 45,
+      "bestSeller": true
+    },
+    "E7223-E01": {
+      "displayName": "E7223-E01 LUOFU Women's (B-01)",
+      "category": "Women's",
+      "gender": "Women",
+      "sellingPrice": 59,
+      "bestSeller": true,
+      "videos": [
+        "assets/videos/E7223-E01.mp4"
+      ]
+    },
+    "E7234M": {
+      "videos": [
+        "assets/videos/E7234M.mp4"
+      ]
+    },
+    "E7208-5M": {
+      "displayName": "E7208-5M LUOFU Men's",
+      "category": "Men's",
+      "gender": "Men",
+      "sellingPrice": 65,
+      "bestSeller": false
+    }
+  },
+  "unassignedVideos": [
+    "WhatsApp Video 2026-09-22 at 10.57.52 AM.mp4"
+  ]
+}

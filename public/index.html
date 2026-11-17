@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LUOFU Qatar | Footwear Catalogue</title>
+<meta name="description" content="Explore LUOFU Qatar footwear for men and women. Find your favourite styles, choose your colour and request your size. Order through WhatsApp.">
+<meta name="theme-color" content="#FFFFFF">
+<link rel="canonical" href="https://luofoqatar.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://luofoqatar.netlify.app/">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"LUOFU Qatar","url":"https://luofoqatar.netlify.app/","inLanguage":["en","ar"]}
+</script>
+<meta property="og:title" content="LUOFU Qatar | Footwear">
+<meta property="og:description" content="Discover LUOFU men's and women's footwear in Qatar.">
+<meta property="og:image" content="https://luofoqatar.netlify.app/assets/images/luofu-hero-desktop.webp">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/brand/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/brand/app-icon-180.png">
+<link rel="preload" href="assets/fonts/Switzer-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+<a class="skip-link" href="#catalogue">Skip to catalogue</a>
+
+<!-- ============ HEADER ============ -->
+<header class="site-header" id="top">
+  <div class="header-inner container">
+    <a class="brand" href="#top" aria-label="LUOFU — back to top of homepage">
+      <img class="brand-logo header-logo" src="assets/brand/luofu-wordmark-transparent.png" alt="LUOFU"
+           width="1995" height="788" decoding="async">
+    </a>
+    <nav class="primary-nav" aria-label="Primary">
+      <ul>
+        <li><a href="#catalogue" data-nav-filter="all">Catalogue</a></li>
+        <li><a href="#catalogue" data-nav-filter="Men">Men</a></li>
+        <li><a href="#catalogue" data-nav-filter="Women">Women</a></li>
+        <li><a href="#best-sellers">Best sellers</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+    <button class="language-toggle" type="button" id="languageToggle" lang="ar" aria-label="Switch to Arabic">العربية</button>
+    <button class="header-favourites-toggle" type="button" id="headerFavouritesToggle" aria-label="Open favourites">
+      <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.8 4.8a5.3 5.3 0 0 0-7.5 0L12 6.1l-1.3-1.3a5.3 5.3 0 0 0-7.5 7.5L12 21l8.8-8.7a5.3 5.3 0 0 0 0-7.5Z"/></svg>
+      <span class="favourites-count" id="headerFavouritesCount" hidden>0</span>
+    </button>
+    <button class="cart-toggle" type="button" id="cartToggle" aria-label="Open cart, 0 items" aria-haspopup="dialog" aria-controls="cartDialog">
+      <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 3h2l2.5 12h11L21 7H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg>
+      <span class="cart-count" id="cartCount" hidden>0</span>
+    </button>
+    <button class="menu-toggle" type="button" id="menuToggle"
+            aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
+      <span class="menu-bars" aria-hidden="true"></span>
+    </button>
+  </div>
+
+  <div class="mobile-menu" id="mobileMenu" hidden>
+    <nav class="container" aria-label="Mobile">
+      <ul>
+        <li><a href="#catalogue" data-nav-filter="all">Catalogue</a></li>
+        <li><a href="#catalogue" data-nav-filter="Men">Men</a></li>
+        <li><a href="#catalogue" data-nav-filter="Women">Women</a></li>
+        <li><a href="#best-sellers">Best sellers</a></li>
+        <li><a href="#favourites" id="mobileFavouritesLink">Favourites <span class="mobile-menu-count" id="mobileFavouritesCount" hidden>0</span></a></li>
+        <li><button type="button" data-open-cart>Cart</button></li>
+        <li><button type="button" data-open-account>Account</button></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" data-home-section>
+    <!-- The headline lives inside the banner artwork, so the page keeps a real
+         h1 for screen readers and search engines without repeating it on screen. -->
+    <h1 class="sr-only">LUOFU footwear catalogue — comfort for every step</h1>
+
+    <!-- Use the supplied landscape artwork on wide screens and keep the
+         existing portrait artwork on phones. Fill the frame proportionally. -->
+    <div class="hero-slides" tabindex="0" role="region" aria-roledescription="carousel" aria-label="LUOFU collection. Swipe or use left and right arrow keys to explore.">
+    <div class="hero-track">
+    <div class="hero-slide" data-slide="0">
+    <picture>
+      <source media="(min-width: 700px)" type="image/webp" srcset="assets/images/luofu-hero-desktop.webp" width="1672" height="941">
+      <source media="(min-width: 700px)" srcset="assets/images/e6130d5a-d2e1-48bf-9676-da9329af41c1.png" width="1672" height="941">
+      <source
+        type="image/webp"
+        srcset="assets/images/luofu-hero-poster-540.webp 540w,
+                assets/images/luofu-hero-poster-760.webp 760w,
+                assets/images/luofu-hero-poster.webp 1086w"
+        sizes="100vw">
+      <img class="hero-banner"
+           src="assets/images/luofu-hero-poster.png"
+           alt="LUOFU slides in black, olive and white, shown on stone steps."
+           width="1086" height="1448" fetchpriority="high" decoding="async">
+    </picture>
+    </div>
+    <div class="hero-slide hero-film" data-slide="1" inert aria-hidden="true">
+      <video autoplay muted loop playsinline disablepictureinpicture disableremoteplayback tabindex="-1" preload="none" data-src="assets/videos/banner-men.mp4" poster="assets/images/banner-men-poster.jpg" aria-label="Men's collection video"></video>
+      <div class="hero-film-copy"><p class="eyebrow">LUOFU / MEN</p><h2>Comfort for every step.</h2><a class="btn btn-primary" href="#catalogue" data-nav-filter="Men">Explore men's</a></div>
+    </div>
+    <div class="hero-slide hero-film" data-slide="2" inert aria-hidden="true">
+      <video autoplay muted loop playsinline disablepictureinpicture disableremoteplayback tabindex="-1" preload="none" data-src="assets/videos/banner-women.mp4" poster="assets/images/banner-women-poster.jpg" aria-label="Women's collection video"></video>
+      <div class="hero-film-copy"><p class="eyebrow">LUOFU / WOMEN</p><h2>Your everyday favourites.</h2><a class="btn btn-primary" href="#catalogue" data-nav-filter="Women">Explore women's</a></div>
+    </div>
+    </div>
+    </div>
+
+  </section>
+
+  <div class="container hero-cta" data-home-section>
+    <a class="btn btn-primary" href="#catalogue">Browse catalogue</a>
+    <a class="btn btn-ghost" href="#shop-by-gender">Shop by gender</a>
+  </div>
+
+  <section class="favourites-page container" id="favourites" aria-labelledby="favouritesTitle" hidden>
+    <div class="section-head">
+      <div><p class="eyebrow">Your selection</p><h1 id="favouritesTitle" tabindex="-1">Favourites</h1></div>
+      <a class="btn btn-ghost" href="#catalogue" data-nav-filter="all">Continue shopping</a>
+    </div>
+    <div class="favourites-sync"><p id="favouritesSyncStatus" role="status"></p><button id="favouritesRetry" type="button" hidden>Retry sync</button></div>
+    <div class="favourites-grid" id="favouritesGrid"></div>
+    <div class="favourites-empty" id="favouritesEmpty" hidden>
+      <div class="favourites-empty-icon" aria-hidden="true">♡</div>
+      <h2>No favourites yet</h2>
+      <p>Save the styles you love to compare them later.</p>
+      <a class="btn btn-primary" href="#catalogue" data-nav-filter="all">Browse catalogue</a>
+    </div>
+  </section>
+
+  <section class="featured-section container" id="best-sellers" aria-labelledby="bestSellerTitle" data-home-section>
+    <div class="section-head"><h2 id="bestSellerTitle">Best sellers</h2><a href="#catalogue">Browse all models</a></div>
+    <div class="product-grid best-seller-grid" id="bestSellerGrid"></div>
+  </section>
+
+  <!-- ============ CATEGORY BANNERS ============ -->
+  <section class="categories container" id="shop-by-gender" aria-labelledby="genderTitle" data-home-section>
+    <div class="section-head categories-heading"><h2 id="genderTitle">Shop by gender</h2></div>
+    <a class="category-card" id="category-men" href="#catalogue" data-nav-filter="Men">
+      <div class="category-media">
+        <img data-model="E6263M" src="assets/products/E6263M.png" alt="LUOFU men's footwear" width="500" height="600" loading="lazy" decoding="async">
+      </div>
+      <div class="category-body">
+        <h3>Men's</h3>
+        <p><span data-count="Men">—</span> models</p>
+        <span class="category-link">View range</span>
+      </div>
+    </a>
+
+    <a class="category-card" id="category-women" href="#catalogue" data-nav-filter="Women">
+      <div class="category-media">
+        <img data-model="E7234L" src="assets/products/E7234L.png" alt="LUOFU women's footwear" width="500" height="600" loading="lazy" decoding="async">
+      </div>
+      <div class="category-body">
+        <h3>Women's</h3>
+        <p><span data-count="Women">—</span> models</p>
+        <span class="category-link">View range</span>
+      </div>
+    </a>
+  </section>
+
+  <!-- Brand feature artwork supplied by LUOFU Jordan; copy matches the user's reference. -->
+  <section class="brand-features" aria-labelledby="featuresTitle" data-home-section>
+    <div class="container brand-features-inner">
+      <div class="brand-features-copy">
+        <h2 id="featuresTitle">Where style meets comfort and health</h2>
+        <p>Experience the perfect blend of modern design, ergonomic and orthopedic support, and all-day comfort with LUOFU slippers. Crafted to enhance both your health and style, these slippers provide arch support, shock absorption, and a breathable fit—designed to keep your feet feeling great and looking stylish.</p>
+      </div>
+      <img class="brand-features-image" src="assets/images/luofu-features.png" width="860" height="717" loading="lazy" decoding="async" alt="LUOFU slide feature diagram: ergonomic design, premium material, ventilation, antibacterial properties, durability, affordability, health benefits, slip resistance, style, lightweight comfort and quick drying.">
+      <ul class="brand-features-mobile" aria-label="LUOFU slipper features">
+        <li>Ergonomic design</li>
+        <li>Premium material</li>
+        <li>Ventilated</li>
+        <li>Antibacterial</li>
+        <li>Durable</li>
+        <li>Affordable</li>
+        <li>Health benefits</li>
+        <li>Slip-resistant</li>
+        <li>Stylish</li>
+        <li>Lightweight</li>
+        <li>Comfortable</li>
+        <li>Quick-drying</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ CATALOGUE ============ -->
+  <section class="catalogue" id="catalogue" data-home-section>
+    <div class="container">
+      <div class="section-head">
+        <h2>All models</h2>
+        <p class="section-note">Add your favourites to cart and checkout on WhatsApp.</p>
+      </div>
+
+      <div class="toolbar">
+        <div class="search-field">
+          <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+            <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.6"/>
+            <line x1="13.5" y1="13.5" x2="18" y2="18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+          <label class="sr-only" for="searchInput">Search the catalogue</label>
+          <input type="search" id="searchInput" placeholder="Search styles, colours…" autocomplete="off" spellcheck="false">
+          <button type="button" class="search-clear" id="searchClear" aria-label="Clear search" hidden>
+            <svg viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+              <line x1="5" y1="5" x2="15" y2="15" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+              <line x1="15" y1="5" x2="5" y2="15" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+
+        <div class="filter-groups">
+          <div class="filter-group" id="genderFilters" role="group" aria-label="Filter by range"></div>
+          <div class="filter-group" id="typeFilters" role="group" aria-label="Filter by category"></div>
+        </div>
+      </div>
+
+      <p class="result-count" id="resultCount" role="status" aria-live="polite"></p>
+
+      <p id="catalogueLoading" class="catalogue-loading" role="status">Loading the collection…</p>
+      <p id="catalogueNotice" class="section-note" role="status" hidden>Some collection photos could not load. Refresh to try again.</p>
+      <div class="product-grid" id="productGrid" aria-busy="true"></div>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <p class="empty-title">No models match your search.</p>
+        <button type="button" class="btn btn-ghost" id="resetFilters">Reset filters</button>
+      </div>
+
+      <div class="load-error" id="loadError" hidden>
+        <p class="empty-title">Catalogue data could not be loaded.</p>
+        <p>Please check your connection and try again.</p>
+        <button type="button" class="btn btn-primary" id="retryCatalogue">Try again</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PROMO / LIFESTYLE BANNER ============ -->
+  <section class="promo" aria-label="About the range" data-home-section>
+    <div class="promo-media">
+      <img src="assets/products/F1194M.png" alt="LUOFU sandals photographed on a beach" width="800" height="600" loading="lazy" decoding="async">
+    </div>
+    <div class="promo-inner">
+      <p class="eyebrow eyebrow-light">The LUOFU range</p>
+      <h2>Find your everyday pair.</h2>
+      <p class="promo-lede">
+        Explore the collection, save your favourites and choose the colours you love.
+      </p>
+      <a class="btn btn-invert" href="#catalogue">Browse all models</a>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section class="about container" id="about" data-home-section>
+    <div class="about-grid">
+      <div>
+        <h2>About this catalogue</h2>
+        <p>
+          Discover the LUOFU footwear collection for men and women. Add your favourite styles to the cart,
+          then send your selection on WhatsApp to confirm sizes, colours, availability and delivery.
+        </p>
+      </div>
+      <div class="about-notes">
+        <h3>Notes</h3>
+        <ul>
+          <li>Displayed prices are in Qatari riyals (QAR). Ask us about styles without a listed price.</li>
+          <li>Sizes and colour availability are confirmed when you order.</li>
+          <li>Colourway availability can change; confirm the colour you want with us on WhatsApp when you order.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer class="site-footer">
+  <div class="container footer-inner">
+
+    <div class="footer-brand">
+      <a class="footer-logo-link" href="#top" aria-label="LUOFU — back to top of homepage">
+        <img class="brand-logo footer-logo" src="assets/brand/luofu-wordmark-transparent.png" alt="LUOFU"
+             width="1995" height="788" loading="lazy" decoding="async">
+      </a>
+      <p class="footer-tagline">Chappals, slides and sandals for every day.
+        Order on WhatsApp.</p>
+      <ul class="footer-social">
+        <li>
+          <a href="https://wa.me/97433518274" target="_blank" rel="noopener noreferrer"
+             aria-label="Message LUOFU Qatar on WhatsApp">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path fill="currentColor" d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.46 1.32 4.96L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2Zm0 1.67c2.2 0 4.27.86 5.83 2.42a8.2 8.2 0 0 1 2.41 5.82c0 4.54-3.7 8.24-8.25 8.24a8.23 8.23 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.19 8.19 0 0 1-1.26-4.38c0-4.54 3.7-8.24 8.25-8.24Zm-2.5 4.3c-.16 0-.42.06-.64.3-.22.24-.84.82-.84 2s.86 2.32.98 2.48c.12.16 1.7 2.6 4.12 3.55 2.01.79 2.42.63 2.86.59.44-.04 1.41-.58 1.61-1.13.2-.55.2-1.03.14-1.13-.06-.1-.22-.16-.46-.28-.24-.12-1.41-.7-1.63-.78-.22-.08-.38-.12-.54.12-.16.24-.62.78-.76.94-.14.16-.28.18-.52.06-.24-.12-1.01-.37-1.92-1.19-.71-.63-1.19-1.41-1.33-1.65-.14-.24-.01-.37.11-.49.11-.11.24-.28.36-.42.12-.14.16-.24.24-.4.08-.16.04-.3-.02-.42-.06-.12-.54-1.3-.74-1.78-.19-.46-.39-.4-.54-.41h-.46Z"/>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/luofu.qatar/" target="_blank" rel="noopener noreferrer"
+             aria-label="LUOFU Qatar on Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.7"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.7"/>
+              <circle cx="17.2" cy="6.8" r="1.2" fill="currentColor"/>
+            </svg>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <nav class="footer-col" aria-label="Shop">
+      <h2 class="footer-heading">Shop</h2>
+      <ul>
+        <li><a href="#catalogue" data-nav-filter="all">All models</a></li>
+        <li><a href="#catalogue" data-nav-filter="Men">Men's</a></li>
+        <li><a href="#catalogue" data-nav-filter="Women">Women's</a></li>
+      </ul>
+    </nav>
+
+    <nav class="footer-col" aria-label="Information">
+      <h2 class="footer-heading">Information</h2>
+      <ul>
+        <li><a href="#about">About the catalogue</a></li>
+        <li><a href="#favourites">Favourites</a></li>
+        <li><a href="#best-sellers">Best sellers</a></li>
+      </ul>
+    </nav>
+
+    <div class="footer-col">
+      <h2 class="footer-heading">Contact</h2>
+      <ul>
+        <li><a href="https://wa.me/97433518274" target="_blank" rel="noopener noreferrer">+974 3351 8274</a></li>
+        <li><a href="https://www.instagram.com/luofu.qatar/" target="_blank" rel="noopener noreferrer">@luofu.qatar</a></li>
+      </ul>
+      <p class="footer-note">Confirm colours, availability and prices on WhatsApp.</p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container footer-bottom-inner">
+      <p>© <span id="year">2026</span> LUOFU Qatar. All rights reserved.</p>
+      <p>Product catalogue for reference.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- ============ PRODUCT DETAIL MODAL ============ -->
+<div class="modal" id="productModal" hidden>
+  <div class="modal-backdrop" data-close-modal></div>
+  <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button type="button" class="modal-close" data-close-modal aria-label="Close product detail">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        <line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+    </button>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<dialog class="cart-dialog" id="cartDialog" aria-labelledby="cartTitle">
+  <div class="cart-heading"><h2 id="cartTitle">Your cart</h2><button type="button" class="cart-close" id="cartClose" aria-label="Close cart">&times;</button></div>
+  <div id="cartItems" class="cart-items"></div>
+  <p id="cartEmpty" class="cart-empty">Your cart is empty. Add a product to get started.</p>
+  <div class="cart-footer">
+    <p id="cartSummary" aria-live="polite"></p>
+    <p id="cartSubtotal" hidden></p>
+    <p class="cart-note">Delivery and availability are confirmed on WhatsApp. No payment is taken here.</p>
+    <a id="cartCheckout" class="btn cart-checkout" target="_blank" rel="noopener noreferrer" hidden>Checkout on WhatsApp</a>
+    <button type="button" class="btn btn-ghost" id="cartContinue">Continue shopping</button>
+  </div>
+</dialog>
+<p id="cartStatus" class="sr-only" role="status" aria-live="polite"></p>
+<p id="shopStatus" class="shop-toast" role="status" aria-live="polite" aria-atomic="true"></p>
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/commerce.js"></script>
+<script src="assets/js/size-charts.js"></script>
+<script src="assets/js/showcase.js"></script>
+<script src="assets/js/service-config.js"></script>
+<script src="assets/js/account.js"></script>
+<script src="assets/js/favourites.js"></script>
+<script src="assets/js/analytics.js"></script>
+<script src="assets/js/cart.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

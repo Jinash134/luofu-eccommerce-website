@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /backend/
+Disallow: /scripts/
+Disallow: /docs/
+Disallow: /tmp/
+Sitemap: https://luofoqatar.netlify.app/sitemap.xml

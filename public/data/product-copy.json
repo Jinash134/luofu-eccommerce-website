@@ -1,0 +1,259 @@
+{
+  "_note": "Original concise display copy, separate from the source catalogue. Five Jordan names matched by catalogue photographs and, where published, model-family SKU; see sourceUrl and matchBasis. Other names are descriptive labels pending an official name crosswalk. Only categoryVerified entries may fill blank source Type fields. Do not import Jordan prices, stock, size availability or generic medical/performance claims. Detail descriptions revised for a consistent concise tone on 24 September 2026; compared against the five documented Jordan matches and supplied product photography. Descriptions are displayed only in product details.",
+  "_categories": [
+    "Slippers",
+    "Slides",
+    "Chappals",
+    "Sandals",
+    "Clogs"
+  ],
+  "products": {
+    "E7185M-E01": {
+      "name": "Men's Crossover Comfort Slipper",
+      "category": "Slippers",
+      "description": "Made in EVA, this open-toe slipper combines layered crossing straps with subtle LUOFU lettering. Its understated shape makes it a simple choice for relaxed everyday dressing.",
+      "descriptionAr": "شبشب مصنوع من EVA بمقدمة مفتوحة وأشرطة متقاطعة متعددة الطبقات وشعار LUOFU بسيط. تصميم هادئ يكمل إطلالتك اليومية الكاجوال."
+    },
+    "E6240M-E01": {
+      "name": "Men's Crossover Strap Sandal",
+      "category": "Sandals",
+      "description": "A crossover upper and back strap give this sandal a structured, open-toe shape. Contrasting geometric details along the sole add a sporty finish without overpowering the design.",
+      "descriptionAr": "أشرطة أمامية متقاطعة وشريط خلفي يمنحان هذا الصندل شكلاً محدداً ومفتوحاً من الأمام. تضيف التفاصيل الهندسية المتباينة على النعل لمسة رياضية متوازنة."
+    },
+    "E6213-E32": {
+      "name": "Men's Single-Band Slide",
+      "category": "Slides",
+      "description": "A wide textured band and angular stripe detail give this slide a sporty look. The open toe and contrasting side detail create a clean silhouette for everyday casual outfits.",
+      "descriptionAr": "شريط عريض بملمس بارز وتفصيل مخطط بزاوية يمنحان هذا الشبشب مظهراً رياضياً. يكتمل التصميم المفتوح بتفصيل جانبي متباين لإطلالة يومية بسيطة."
+    },
+    "E7223-E01": {
+      "name": "Elysia",
+      "category": "Slides",
+      "categoryVerified": true,
+      "description": "Elysia brings together crossover straps, an open toe and a raised, textured sole. The simple slip-on shape gives casual outfits a clean finish, with subtle LUOFU branding along the upper.",
+      "sourceUrl": "https://luofujo.com/product/elysia/",
+      "matchBasis": "Jordan SKU E7223 and matching crossover upper and sole.",
+      "descriptionAr": "تجمع إليسيا بين أشرطة متقاطعة ومقدمة مفتوحة ونعل مرتفع بملمس بارز. يكمل التصميم البسيط سهل الارتداء الملابس الكاجوال مع شعار LUOFU هادئ على الجزء العلوي."
+    },
+    "E7219-E01": {
+      "name": "Women's Everyday Slide",
+      "category": "Slides",
+      "description": "A sculpted wide band and angular stripe detail give this slide a contemporary profile. The open toe and finely textured sole edge create a clean, everyday look.",
+      "descriptionAr": "شريط عريض مشكّل وتفصيل مخطط بزاوية يمنحان هذا الشبشب مظهراً عصرياً. تكمل المقدمة المفتوحة وحافة النعل ذات الخطوط الدقيقة التصميم اليومي البسيط."
+    },
+    "E6238-E01": {
+      "name": "Men's Two-Band Slide",
+      "category": "Slides",
+      "description": "Two broad bands and an angular side stripe create a simple sports-inspired design. The open-toe silhouette and understated LUOFU detailing pair easily with everyday casual wear.",
+      "descriptionAr": "شريطان عريضان وخط جانبي بزاوية يمنحان التصميم طابعاً رياضياً بسيطاً. تتناسب المقدمة المفتوحة وتفاصيل LUOFU الهادئة مع الملابس اليومية الكاجوال."
+    },
+    "E6235-E01": {
+      "name": "Men's Multi-Strap Sandal",
+      "category": "Sandals",
+      "description": "Overlapping front straps and a back strap form a classic open-toe sandal. The textured sole edge adds a considered finish to a practical, everyday silhouette.",
+      "descriptionAr": "أشرطة أمامية متداخلة وشريط خلفي يشكلان صندلاً كلاسيكياً مفتوحاً من الأمام. تضيف حافة النعل المحببة لمسة مميزة إلى التصميم اليومي العملي."
+    },
+    "E7208-B85": {
+      "name": "Women's Textured Band Slide",
+      "category": "Slides",
+      "description": "Women's slide with a textured band upper for everyday wear."
+    },
+    "E7158-E293": {
+      "name": "Women's Wedge Chappal",
+      "category": "Chappals",
+      "description": "Women's toe-post chappal on a low wedge sole for everyday wear."
+    },
+    "E6259L": {
+      "name": "Women's Wide-Band Slide",
+      "category": "Slides",
+      "description": "A softly rounded band with a textured surface and embossed LUOFU lettering defines this minimal slide. Its open toe and tonal sole create a clean look for casual outfits.",
+      "descriptionAr": "شريط مستدير بسطح ذي ملمس بارز وشعار LUOFU يميز هذا الشبشب البسيط. تمنح المقدمة المفتوحة والنعل المتناسق إطلالة هادئة للملابس الكاجوال."
+    },
+    "E7231L": {
+      "name": "Women's Cut-Out Slide",
+      "category": "Clogs",
+      "description": "Intersecting straps and generous cut-outs give this open-toe slide its distinctive shape. A rounded sole and subtle LUOFU lettering create a simple finish for casual wear.",
+      "descriptionAr": "أشرطة متقاطعة وفتحات واسعة تمنح هذا الشبشب المفتوح شكله المميز. يكمل النعل المستدير وشعار LUOFU البسيط التصميم الكاجوال."
+    },
+    "E6258-E01": {
+      "name": "Women's Stripe Detail Slide",
+      "category": "Slides",
+      "description": "A broad upper with a contrasting stripe detail gives this slide a distinctive finish. The open toe and gently curved sole create a simple, contemporary silhouette for casual wear.",
+      "descriptionAr": "جزء علوي عريض بتفصيل مخطط متباين يمنح هذا الشبشب مظهراً مميزاً. يكتمل التصميم المفتوح من الأمام بنعل منحني قليلاً لإطلالة عصرية بسيطة."
+    },
+    "E7229-E01": {
+      "name": "Cross-Cut Slide",
+      "category": "Slides",
+      "categoryVerified": true,
+      "description": "A slip-on slide with two shaped straps and a distinctive cut-out detail. The open upper and rounded sole give Cross-Cut Slide a clean, casual profile for everyday dressing.",
+      "sourceUrl": "https://luofujo.com/product/cross-cut-slide/",
+      "matchBasis": "Same supplied black product photograph and strap detail. Jordan SKU is blank.",
+      "descriptionAr": "شبشب سهل الارتداء بشريطين مشكّلين وتفصيل مفرغ مميز. يمنح الجزء العلوي المفتوح والنعل المستدير كروس كت سلايد إطلالة يومية كاجوال بسيطة."
+    },
+    "E7199C-E99": {
+      "name": "Women's Floral Band Slide",
+      "category": "Slides",
+      "description": "Women's slide with a decorative band, made for easy daily wear."
+    },
+    "E7140D-B93": {
+      "name": "Women's Everyday Chappal",
+      "category": "Chappals",
+      "description": "Casual women's chappal with a simple toe-post profile."
+    },
+    "E7208-E05": {
+      "name": "Men's Everyday Slide",
+      "category": "Slides",
+      "description": "Lightweight men's slide designed for comfortable daily wear."
+    },
+    "E6257-E01": {
+      "name": "Women's Twin-Band Slide",
+      "category": "Slides",
+      "description": "Two wide bands sit above a sculpted sole, with a contrasting stripe detail along the side. The open design gives this everyday slide a bold, sports-inspired profile.",
+      "descriptionAr": "شريطان عريضان فوق نعل مشكّل مع تفصيل مخطط متباين على الجانب. يمنح التصميم المفتوح هذا الشبشب اليومي مظهراً بارزاً مستوحى من الطابع الرياضي."
+    },
+    "E7224B-E01": {
+      "name": "Women's Back-Strap Sandal",
+      "category": "Sandals",
+      "description": "Crossing front straps and a back strap form an open, rounded sandal. A contrasting strap detail adds interest while the substantial sole keeps the silhouette balanced.",
+      "descriptionAr": "أشرطة أمامية متقاطعة وشريط خلفي يشكلان صندلاً مفتوحاً ومستديراً. يضيف التفصيل المتباين على الشريط لمسة مميزة، بينما يحافظ النعل البارز على توازن الشكل."
+    },
+    "F1193-E01": {
+      "name": "Men's Crossover Slide",
+      "category": "Chappals",
+      "description": "Overlapping straps form an open-toe crossover design with subtle LUOFU lettering. The low-profile sole keeps the silhouette simple for relaxed, everyday outfits.",
+      "descriptionAr": "أشرطة متداخلة تشكل تصميماً متقاطعاً مفتوحاً من الأمام مع شعار LUOFU بسيط. يحافظ النعل المنخفض على شكل هادئ يناسب الملابس اليومية الكاجوال."
+    },
+    "E7185-E85": {
+      "name": "Women's Twin-Band Slide",
+      "category": "Slides",
+      "description": "Women's slide with a twin-band upper for comfortable daily wear."
+    },
+    "E2333-E01": {
+      "name": "Women's Buckle Slide",
+      "category": "Slides",
+      "description": "Two glossy bands and a buckle detail give this open-toe slide a polished finish. Its simple slip-on shape pairs easily with casual outfits, while the tonal sole keeps the look clean.",
+      "descriptionAr": "شريطان لامعان وتفصيل إبزيم يمنحان هذا الشبشب المفتوح لمسة أنيقة. يتناسب تصميمه البسيط سهل الارتداء مع الملابس الكاجوال، ويكمل النعل المتناسق مظهره الهادئ."
+    },
+    "E7199A-E56": {
+      "name": "Women's Two-Band Slide",
+      "category": "Slides",
+      "description": "Women's slide with a twin-band upper, made for easy daily wear."
+    },
+    "E7213-E01": {
+      "name": "Women's Buckle Slide",
+      "category": "Slides",
+      "description": "A wide band with a buckle detail gives this slide a clean, considered finish. The open toe and subtly ridged sole create a simple silhouette for everyday casual wear.",
+      "descriptionAr": "شريط عريض بتفصيل إبزيم يمنح هذا الشبشب مظهراً بسيطاً وأنيقاً. تشكل المقدمة المفتوحة والنعل ذو الخطوط الدقيقة تصميماً مناسباً للارتداء اليومي الكاجوال."
+    },
+    "E7208-E01": {
+      "name": "Hiraam",
+      "category": "Slides",
+      "categoryVerified": true,
+      "description": "Hiraam has a broad, curved band with understated LUOFU lettering and an open toe. Its plain upper and smooth, rounded sole create a minimal slip-on style for everyday casual wear.",
+      "sourceUrl": "https://luofujo.com/product/hiraam/",
+      "matchBasis": "Jordan SKU E7208 and matching plain band and sole; excludes sparkle, wide and patterned variants.",
+      "descriptionAr": "يتميز هيرام بشريط عريض منحني وشعار LUOFU بسيط ومقدمة مفتوحة. يمنح الجزء العلوي السادة والنعل المستدير الناعم المظهر تصميماً يومياً بسيطاً وسهل الارتداء."
+    },
+    "E7208-5M": {
+      "name": "Men's Speckled Sole Slide",
+      "category": "Slides",
+      "description": "A plain, wide band contrasts with a speckled sole for a distinctive finish. This open-toe slide keeps the upper minimal, letting the patterned base bring character to everyday outfits.",
+      "descriptionAr": "يتباين الشريط العريض السادة مع النعل المنقط لإطلالة مميزة. يحافظ هذا الشبشب المفتوح على بساطة الجزء العلوي، بينما تضيف القاعدة المزخرفة لمسة خاصة إلى الملابس اليومية."
+    },
+    "E7234L": {
+      "name": "Women's Perforated Slide",
+      "category": "Slides",
+      "description": "A broad perforated band and rounded sole give this slide a clean, sculpted shape. The open toe and minimal LUOFU branding make it easy to pair with everyday outfits.",
+      "descriptionAr": "شريط عريض مثقب ونعل مستدير يمنحان هذا الشبشب شكلاً بسيطاً ومشكّلاً. تتناسب المقدمة المفتوحة وشعار LUOFU الهادئ مع الملابس اليومية."
+    },
+    "E6234-3M": {
+      "name": "Men's Sport Slide",
+      "category": "Slides",
+      "description": "A broad textured upper and ribbed sidewall give this slide a sporty profile. Subtle LUOFU lettering keeps the detailing minimal, with an open toe and easy slip-on shape.",
+      "descriptionAr": "جزء علوي عريض بملمس بارز وحافة نعل مخططة يمنحان هذا الشبشب طابعاً رياضياً. يكتمل التصميم المفتوح سهل الارتداء بشعار LUOFU البسيط."
+    },
+    "E7234M": {
+      "name": "Men's Perforated Slide",
+      "category": "Slides",
+      "description": "A wide band with circular perforations sits above a rounded sole. The open-toe design and understated branding create a simple, sculpted style for casual everyday wear.",
+      "descriptionAr": "شريط عريض بفتحات دائرية فوق نعل مستدير. تمنح المقدمة المفتوحة والشعار الهادئ تصميماً بسيطاً للارتداء اليومي الكاجوال."
+    },
+    "E7213-3L": {
+      "name": "Women's Buckle Band Slide",
+      "category": "Slides",
+      "description": "A patterned band and buckle detail add character to this open-toe slide. The tonal sole balances the decorative upper, keeping the overall shape simple and easy to style.",
+      "descriptionAr": "شريط مزخرف وتفصيل إبزيم يضيفان طابعاً مميزاً إلى هذا الشبشب المفتوح. يوازن النعل المتناسق زخرفة الجزء العلوي ليبقى الشكل بسيطاً وسهل التنسيق."
+    },
+    "E7228L": {
+      "name": "Women's Everyday Clog",
+      "category": "Clogs",
+      "description": "An enclosed toe, ventilation cut-outs and a back strap define this everyday clog. A sculpted sole and subtle side detailing give the familiar shape a contemporary finish.",
+      "descriptionAr": "مقدمة مغلقة وفتحات تهوية وشريط خلفي تميز هذا القبقاب اليومي. يمنح النعل المشكّل والتفاصيل الجانبية البسيطة الشكل المألوف لمسة عصرية."
+    },
+    "E6230-3L": {
+      "name": "Women's Toe-Post Chappal",
+      "category": "Chappals",
+      "description": "An open toe-post design with broad textured straps, a patterned footbed and a ribbed sole. The simple shape offers an understated addition to relaxed everyday outfits.",
+      "descriptionAr": "تصميم مفتوح بإصبع وأشرطة عريضة ذات ملمس بارز مع قاعدة قدم مزخرفة ونعل مخطط. شكل بسيط يكمل الملابس اليومية الكاجوال."
+    },
+    "E6230-3M": {
+      "name": "Men's Toe-Post Chappal",
+      "category": "Chappals",
+      "description": "A broad toe-post upper sits above a patterned footbed and a finely ribbed sole. This open design brings subtle texture to a straightforward everyday style.",
+      "descriptionAr": "جزء علوي عريض بإصبع مع قاعدة قدم مزخرفة ونعل ذي خطوط دقيقة. يضيف التصميم المفتوح ملمساً مميزاً إلى الإطلالة اليومية البسيطة."
+    },
+    "F1154-9M": {
+      "name": "Men's Beach Chappal",
+      "category": "Chappals",
+      "description": "Men's toe-post chappal with a lightweight sole for casual wear."
+    },
+    "E6263M": {
+      "name": "Men's Chunky Sole Slide",
+      "category": "Slides",
+      "description": "A broad curved upper and chunky sculpted sole give this slide a distinctive profile. Embossed LUOFU lettering keeps the upper minimal, balancing the pronounced shape of the base.",
+      "descriptionAr": "جزء علوي عريض منحني ونعل سميك مشكّل يمنحان هذا الشبشب مظهراً مميزاً. يحافظ شعار LUOFU البارز على بساطة الجزء العلوي لموازنة شكل القاعدة الواضح."
+    },
+    "E7229BL": {
+      "name": "Women's Perforated Band Slide",
+      "category": "Slides",
+      "description": "Two perforated bands and a rounded sole create a light-looking, open silhouette. Subtle LUOFU branding keeps the detailing simple for relaxed everyday outfits.",
+      "descriptionAr": "شريطان مثقبان ونعل مستدير يمنحان التصميم مظهراً مفتوحاً وخفيفاً بصرياً. يحافظ شعار LUOFU الهادئ على بساطة التفاصيل لإطلالة يومية كاجوال."
+    },
+    "E6261M": {
+      "name": "X – strap",
+      "category": "Slides",
+      "categoryVerified": true,
+      "description": "X – strap is an everyday slip-on with two broad, crossing straps and a contrasting sole. The open design and subtle LUOFU lettering create a clean, relaxed look that pairs easily with casual outfits.",
+      "sourceUrl": "https://luofujo.com/product/x-strap/",
+      "matchBasis": "Same supplied photograph and crossed-strap construction. Jordan SKU is blank.",
+      "descriptionAr": "إكس ستراب تصميم يومي سهل الارتداء بشريطين عريضين متقاطعين ونعل متباين. يمنح التصميم المفتوح وشعار LUOFU البسيط إطلالة هادئة تتناسب مع الملابس الكاجوال."
+    },
+    "F2334L": {
+      "name": "Women's Slim Toe-Post Chappal",
+      "category": "Chappals",
+      "description": "Slim toe-post straps and a gently curved sole create a minimal everyday silhouette. Subtle LUOFU lettering adds a simple finishing detail without crowding the design.",
+      "descriptionAr": "أشرطة رفيعة بإصبع ونعل منحني قليلاً يمنحان تصميماً يومياً بسيطاً. يضيف شعار LUOFU الهادئ لمسة أخيرة دون ازدحام التفاصيل."
+    },
+    "F1194M": {
+      "name": "Men's Everyday Chappal",
+      "category": "Chappals",
+      "description": "A casual toe-post design with broad, textured straps and a contrasting sole. The open shape and understated LUOFU branding make it an easy match for relaxed everyday outfits.",
+      "descriptionAr": "تصميم كاجوال بإصبع وأشرطة عريضة ذات ملمس بارز مع نعل بلون متباين. يمنح الشكل المفتوح وشعار LUOFU البسيط إطلالة مناسبة للملابس اليومية المريحة."
+    },
+    "E6201-E01L": {
+      "name": "Kremlin – Mono",
+      "category": "Clogs",
+      "categoryVerified": true,
+      "description": "Kremlin – Mono combines a closed toe, ventilation holes and a back strap in an everyday clog. Its single-colour design and textured sole keep the look simple for relaxed indoor and outdoor wear.",
+      "sourceUrl": "https://luofujo.com/product/kremlin-mono/",
+      "matchBasis": "Jordan SKU E6201 and matching clog construction.",
+      "descriptionAr": "يجمع كرملين – مونو بين مقدمة مغلقة وفتحات تهوية وشريط خلفي في قبقاب يومي. يحافظ اللون الموحد والنعل المحبب على بساطة التصميم للاستخدام الكاجوال داخل المنزل وخارجه."
+    },
+    "E6262": {
+      "name": "Men's Twin-Band Slide",
+      "category": "Slides",
+      "description": "Two wide straps with circular cut-outs create an open, structured silhouette. Embossed LUOFU lettering and a rounded sole keep the design understated and easy to pair with everyday clothing.",
+      "descriptionAr": "شريطان عريضان بفتحات دائرية يمنحان التصميم شكلاً مفتوحاً ومحدداً. يضيف شعار LUOFU البارز والنعل المستدير لمسة بسيطة تتناسب مع الملابس اليومية."
+    }
+  }
+}

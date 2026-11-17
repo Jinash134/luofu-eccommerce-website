@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><title>LUOFU — Admin</title>
+  <link rel="icon" href="assets/brand/favicon-32.png">
+  <link rel="preload" href="assets/fonts/Switzer-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/css/styles.css"><link rel="stylesheet" href="assets/css/admin.css">
+</head>
+<body data-admin="true">
+  <header class="site-header"><div class="container header-inner"><a class="brand" href="index.html"><img class="brand-logo header-logo" src="assets/brand/luofu-wordmark-transparent.png" width="1995" height="788" alt="LUOFU Qatar"></a><a href="index.html">Back to shop</a><button id="adminLogin" class="btn btn-ghost" type="button">Sign in</button></div></header>
+  <main class="container admin-main">
+    <h1>Website analytics</h1>
+    <p>Visits and shopping activity from visitors who allow analytics. Times are UTC.</p>
+    <p id="adminStatus" role="status" aria-live="polite">Checking access…</p>
+    <section id="adminDashboard" hidden>
+      <div class="admin-toolbar"><label for="adminDays">Period</label><select id="adminDays"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option></select><button id="adminRefresh" class="btn btn-ghost" type="button">Refresh</button><button id="adminExport" class="btn btn-ghost" type="button">Export report</button></div>
+      <div id="adminMetrics" class="admin-metrics"></div>
+      <div class="admin-sections"><section><h2>Daily traffic</h2><div id="adminDaily" class="admin-table"></div></section><section><h2>Product interest</h2><div id="adminProducts" class="admin-table"></div></section><section><h2>Devices</h2><div id="adminDevices" class="admin-table"></div></section><section><h2>Referral sources</h2><div id="adminReferrers" class="admin-table"></div></section></div>
+      <p class="admin-note">Visitor counts estimate unique browsers, not individual people. Sessions restart after 30 minutes of inactivity. Blockers, declined consent and bots affect counts. WhatsApp clicks are enquiries, not confirmed orders or revenue. Account totals come from verified sign-ins; customer contact details are not included in analytics.</p>
+    </section>
+  </main>
+  <script src="assets/js/service-config.js"></script><script src="assets/js/account.js"></script><script src="assets/js/admin.js"></script>
+</body>
+</html>
